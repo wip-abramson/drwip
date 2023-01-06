@@ -1,0 +1,76 @@
+- name: |
+    Experiences in Memory Space
+  url:
+  description: A short HopePunk story developed as an output from a Research Sprint hosted by the Berkman Klien Center for Internet and Society focused on Digital Identity in Times of Crisis
+  status: In Progress
+  tags:
+  - Memory
+  - Trust
+  - Hopepunk
+  - Speculative Fiction
+  icon: website
+  image:
+
+- name: |
+    Identity and Identification in an Information Society: Augmenting Formal Systems of Identification with Technological Artefacts
+  url:
+  description: PhD Thesis - Available on request.
+  status: published
+  tags:
+  - Decentralised Identity
+  - Trust
+  - Anonymous Credentials
+  image:
+
+- name: |
+    Public Key Infrasctructures Course
+  url: https://courses.openmined.org/courses/foundations-of-private-computation
+  description: A section of the Foundations of Private Computation course developed for the OpenMined community. The section aimed to introduce those working on privacy-preserving machine learning to some of the concepts, ideas and tooling being developed within the decentralised identity space.
+  status: live
+  tags:
+  - Education
+  - Decentralised Identity
+  - OpenMined
+  icon: website
+  image: images/openmined.png
+
+
+- name: Scottish Healthcare Ecosystem POC
+  url: https://github.com/blockpass-identity-lab/scottish-healthcare-ecosystem-poc
+  description: This proof of concept simulates the identification processes that a healthcare professional goes through as they graduate from medical school, become a licenced professional and onboard at a new hospital.
+  status: live
+  tags:
+  - Decentralised Identity
+  - Hyperledger Aries
+  - ACA-Py
+  - Jupyter
+  icon: github
+  image: images/shs-cred-deps.png
+
+- name: Aries Jupyter Playground
+  url: https://github.com/blockpass-identity-lab/scottish-healthcare-ecosystem-poc
+  description: A Jupyter Notebook based playground for education and experimentation using the Hyperledger Verifiable Information Exchange Platform.
+  status: live
+  tags:
+  - Decentralised Identity
+  - Hyperledger Aries
+  - ACA-Py
+  - Jupyter
+  icon: github
+  image: images/playground-architecture.png
+
+- name: Distributed Deep-learning DID-acts
+  url: https://devpost.com/software/distributed-deep-learning-did-acts
+  description: Diffusion 2019 hackathon winner demonstrating distributed deep learning on top of a secure decentralised credential system built with Hyperledger Aries.
+  status: live
+  tags:
+    - OpenMined
+    - PPML
+    - Hyperledger Aries
+    - ACA-Py
+    - Python
+    - Jupyter
+  icon: website
+  image: images/ppml-project.png
+
+

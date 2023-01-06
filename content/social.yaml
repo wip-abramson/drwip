@@ -1,0 +1,41 @@
+- name: github
+  url: https://github.com/wip-abramson
+
+- name: linkedin
+  url: https://www.linkedin.com/in/will-abramson-639975120/
+
+- name: scholar
+  url: https://scholar.google.com/citations?hl=en&user=KBU1owsAAAAJ
+
+- name: twitter
+  url:
+
+- name: facebook
+  url:
+
+- name: instagram
+  url:
+
+- name: dribbble
+  url:
+
+- name: behance
+  url:
+
+- name: producthunt
+  url:
+
+
+
+- name: goodreads
+  url:
+
+- name: xing
+  url:
+
+- name: youtube
+  url:
+
+- name: medium
+  url:
+

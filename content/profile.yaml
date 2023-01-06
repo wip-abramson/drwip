@@ -1,0 +1,24 @@
+- profile:
+  initials: WIP
+  name: Dr Will Abramson
+  profession: Requirements Engineer & Identity Researcher
+  image: images/profile.jpg
+  location: London, UK
+  relocation: false
+  company: Legendary Requirements
+  for_hire: false
+  focus: Memory and Meaning
+  focus_url: |
+  about: |
+  skills:
+    - Identity Systems
+    - Crytography
+    - Requirements
+  tools:
+    - DIDs
+    - VCs
+  budget:
+    currency: $
+    min: 5
+    max: 30
+    default: 10
