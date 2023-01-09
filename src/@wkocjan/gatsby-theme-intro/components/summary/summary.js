@@ -8,9 +8,23 @@ const Summary = ({ profile }) => (
       <h5 className="font-header font-semibold text-front text-sm uppercase">
         Company
       </h5>
-      <h3 className="font-header font-light text-2xl text-front leading-tight">
+      <div className="font-header font-light text-2xl text-front leading-tight">
+        {console.log(profile)}
         {profile.company}
-      </h3>
+        {profile.company_url && (
+          <div>
+            <a
+              aria-label="website"
+              className="inline-block text-front opacity-50 hover:opacity-75 h-4 w-4 transition-opacity duration-150"
+              href={profile.company_url}
+              rel="noopener noreferrer"
+              target="_blank"
+            >
+              <FaCompass />
+            </a>
+          </div>
+        )}
+      </div>
       {profile.for_hire && (
         <div className="font-header font-semibold text-xs uppercase pt-2">
           <span className="inline-block w-2 h-2 rounded-full mr-1 bg-green-500"></span>
