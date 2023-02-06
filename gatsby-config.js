@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    description: "Professional page of Dr Will Abramson",
+    description: "Professional page of Dr. Will Abramson",
     locale: "en",
-    title: "Dr Will Abramson",
+    title: "Dr. Will Abramson",
     formspreeEndpoint: "",
     showThemeLogo: true
   },
