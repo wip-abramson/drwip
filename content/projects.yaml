@@ -1,7 +1,18 @@
 - name: |
+    Identity and Interaction in Complex Human Systems
+  url: https://iiexhibition.studio
+  description: A playful virtual exhibition presenting twelve abstract conceptual renderings of our social reality.
+  status: In Progress
+  tags:
+  - Identity
+  - Interaction
+  - Trust
+  - Identification
+  - Exhibition
+- name: |
     Experiences in Memory Space
   url:
-  description: A short HopePunk story developed as an output from a Research Sprint hosted by the Berkman Klien Center for Internet and Society focused on Digital Identity in Times of Crisis
+  description: A short hopepunk story developed as an output from a research sprint hosted by the Berkman Klien Center for Internet and Society focused on Digital Identity in Times of Crisis
   status: In Progress
   tags:
   - Memory
