@@ -11,9 +11,9 @@
   - Exhibition
 - name: |
     Experiences in Memory Space
-  url:
+  url: https://sites.google.com/view/digital-identity-in-crisis/outputs/speculative-fiction
   description: A short hopepunk story developed as an output from a research sprint hosted by the Berkman Klien Center for Internet and Society focused on Digital Identity in Times of Crisis
-  status: In Progress
+  status: live
   tags:
   - Memory
   - Trust
