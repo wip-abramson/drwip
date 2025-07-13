@@ -1,7 +1,22 @@
 - company: Legendary Requirements
-  position: Requirements Engineer
+  position: Senior Requirements Engineer
   period: March 2021 - present
   url: https://legreq.com
+
+- company: World Wide Web Consortium (W3C)
+  position: Decentralized Identifier (DID) Working Group Chair
+  period: July 2024 - present
+  url: https://www.w3.org/groups/wg/did/participants/
+
+- company: World Wide Web Consortium (W3C)
+  position: Credentials Community Group Chair
+  period: January 2024 - present
+  url: https://www.w3.org/community/credentials/
+
+- company: Summer of Protocols 2024
+  position: Protocol Incepting Lore and Literacy (PILL) Author
+  period: Summer 2024
+  url: https://summerofprotocols.com/pills/memories-of-us
 
 - company: Digital Identity in Time of Crisis Research Sprint hosted by the Berkman Klein Center for Internet & Society at Harvard University
   position: Sprint Participant
