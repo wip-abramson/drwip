@@ -24,8 +24,8 @@
 
 - name: |
     Identity and Identification in an Information Society: Augmenting Formal Systems of Identification with Technological Artefacts
-  url:
-  description: PhD Thesis - Available on request.
+  url: https://napier-repository.worktribe.com/output/3050571
+  description: PhD Thesis
   status: published
   tags:
   - Decentralised Identity
@@ -34,7 +34,7 @@
   image:
 
 - name: |
-    Public Key Infrasctructures Course
+    Public Key Infrastructures Course
   url: https://courses.openmined.org/courses/foundations-of-private-computation
   description: A section of the Foundations of Private Computation course developed for the OpenMined community. The section aimed to introduce those working on privacy-preserving machine learning to some of the concepts, ideas and tooling being developed within the decentralised identity space.
   status: live

@@ -3,7 +3,7 @@
   name: Dr. Will Abramson
   profession: Requirements Engineer & Identity Researcher
   image: images/profile.jpg
-  location: Mexico
+  location: UK
   relocation: false
   company: Legendary Requirements
   company_url: https://legreq.com
@@ -15,6 +15,7 @@
     - Identity Systems
     - Cryptography
     - Requirements
+    - Software Engineering
   tools:
     - DIDs
     - VCs
