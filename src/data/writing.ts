@@ -4,7 +4,7 @@ export const writing: WritingEntry[] = [
   {
     title: "Why Self-Sovereign Identity Matters More Than Ever",
     description:
-      "An accessible introduction to SSI — what it is, why centralised identity systems fail us, and how decentralised approaches shift power back to individuals.",
+      "An accessible introduction to SSI — what it is, why centralised identity systems fail us, and how decentralized approaches shift power back to individuals.",
     date: "2024-01",
     status: "coming-soon",
     tags: ["SSI", "Identity", "Privacy"],
