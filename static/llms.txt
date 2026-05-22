@@ -1,0 +1,22 @@
+# Will Abramson (Dr Wip)
+
+> Researcher and engineer building cryptographic systems for identity, coordination, and trust. Senior engineer at Legendary Requirements; Chair of the W3C Decentralized Identifier (DID) Working Group and the W3C Credentials Community Group.
+
+Will Abramson — also known as Dr Wip — works on decentralized identity, cryptography, and interoperable trust infrastructure. His work spans decentralized identifiers (DIDs), verifiable credentials, and open cryptographic protocols that enable secure coordination without centralized control. He builds production systems and prototypes to test assumptions and bring new trust infrastructure to life.
+
+## Pages
+
+- [Home](https://drwip.com): Profile, current roles, skills, experience, and projects.
+- [Publications](https://drwip.com/publications): Peer-reviewed research papers and technical publications.
+
+## Writing
+
+- [Thought Seeds blog](https://blog.drwip.com): Essays and notes on identity, trust, memory, and decentralized systems.
+
+## Elsewhere
+
+- [GitHub](https://github.com/wip-abramson): Open-source code and projects.
+- [Google Scholar](https://scholar.google.com/citations?user=KBU1owsAAAAJ&hl=en): Citations and research papers.
+- [LinkedIn](https://www.linkedin.com/in/wip-abramson/): Professional profile.
+- [W3C DID Working Group](https://www.w3.org/groups/wg/did/): Standards work on decentralized identifiers.
+- [W3C Credentials Community Group](https://www.w3.org/groups/cg/credentials/): Standards work on verifiable credentials.

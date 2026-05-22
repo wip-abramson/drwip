@@ -11,6 +11,16 @@ const AboutSection: React.FC = () => {
             {paragraph}
           </p>
         ))}
+        <p className="text-brand-text leading-relaxed">
+          I think aloud at{" "}
+          <a
+            href="https://blog.drwip.com"
+            className="text-brand-accent hover:underline"
+          >
+            blog.drwip.com
+          </a>
+          .
+        </p>
       </div>
     </Section>
   )

@@ -2,6 +2,7 @@ import * as React from "react"
 import { Link } from "gatsby"
 import type { HeadFC, PageProps } from "gatsby"
 import Layout from "../components/Layout"
+import Seo from "../components/Seo"
 
 const NotFoundPage: React.FC<PageProps> = () => {
   return (
@@ -28,4 +29,8 @@ const NotFoundPage: React.FC<PageProps> = () => {
 
 export default NotFoundPage
 
-export const Head: HeadFC = () => <title>Not found — drwip.com</title>
+export const Head: HeadFC = () => (
+  <Seo title="Page not found — drwip.com">
+    <meta name="robots" content="noindex" />
+  </Seo>
+)

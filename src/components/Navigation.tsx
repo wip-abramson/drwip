@@ -5,7 +5,7 @@ const navLinks = [
   { href: "#skills", label: "Expertise" },
   { href: "#experience", label: "Experience" },
   { href: "#projects", label: "Projects" },
-  { href: "#contact", label: "Contact" },
+  { href: "https://blog.drwip.com", label: "Writing", external: true },
   { href: "/publications/", label: "Publications", external: true },
 ]
 

@@ -27,6 +27,17 @@ const config: GatsbyConfig = {
       },
       __key: "images",
     },
+    // Emits /sitemap-index.xml (+ child sitemaps) listing every built page.
+    "gatsby-plugin-sitemap",
+    // Emits /robots.txt that allows all crawlers and points at the sitemap.
+    {
+      resolve: "gatsby-plugin-robots-txt",
+      options: {
+        host: "https://drwip.com",
+        sitemap: "https://drwip.com/sitemap-index.xml",
+        policy: [{ userAgent: "*", allow: "/" }],
+      },
+    },
   ],
 }
 

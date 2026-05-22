@@ -2,6 +2,7 @@ import * as React from "react"
 import { graphql, type HeadFC, type PageProps } from "gatsby"
 import Layout from "../components/Layout"
 import PublicationCard from "../components/ui/PublicationCard"
+import Seo from "../components/Seo"
 import type { Publication } from "../types"
 
 interface QueryResult {
@@ -60,14 +61,11 @@ const PublicationsPage: React.FC<PageProps<QueryResult>> = ({ data }) => {
 export default PublicationsPage
 
 export const Head: HeadFC = () => (
-  <>
-    <title>Publications — Will Abramson</title>
-    <meta
-      name="description"
-      content="Research papers and technical publications by Will Abramson."
-    />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  </>
+  <Seo
+    title="Publications — Will Abramson"
+    description="Peer-reviewed research papers and technical publications by Will Abramson on decentralized identity, verifiable credentials, and cryptography."
+    pathname="/publications"
+  />
 )
 
 export const query = graphql`

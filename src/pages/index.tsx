@@ -7,6 +7,8 @@ import SkillsSection from "../components/sections/SkillsSection"
 import ExperienceSection from "../components/sections/ExperienceSection"
 import ProjectsSection from "../components/sections/ProjectsSection"
 import ContactSection from "../components/sections/ContactSection"
+import Seo from "../components/Seo"
+import { personSchema } from "../data/structuredData"
 
 const IndexPage: React.FC<PageProps> = () => {
   return (
@@ -24,12 +26,10 @@ const IndexPage: React.FC<PageProps> = () => {
 export default IndexPage
 
 export const Head: HeadFC = () => (
-  <>
-    <title>Will Abramson — drwip.com</title>
-    <meta
-      name="description"
-      content="Building cryptographic systems for identity, coordination, and trust."
+  <Seo description="Will Abramson (Dr Wip) builds cryptographic systems for identity, coordination, and trust — decentralized identifiers, verifiable credentials, and open protocols.">
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(personSchema) }}
     />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-  </>
+  </Seo>
 )
